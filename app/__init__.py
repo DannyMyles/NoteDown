@@ -17,7 +17,7 @@ def create_app(configname):
     '''
     Method for creating the app to enable for easier configurations
     '''
-   
+    app.config.from_object(configurations[configname])
 
     #Importing BluePrints
     from .auth import auth as auth_blueprint

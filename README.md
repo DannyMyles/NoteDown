@@ -50,7 +50,7 @@ click [here](https://flask-blog254.herokuapp.com/)
 ### Cloning
 * In your terminal:
 
-        $ git clone https://github.com/NazarineWasonga/peech/
+        $ git clone https://github.com/DannyMyles/NoteDown.git
         $ cd blog
 
 ## Running the Application

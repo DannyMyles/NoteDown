@@ -1,6 +1,6 @@
 # Blog
 
-## Built By [NazarineWasonga](https://github.com/DannyMyles/)
+## Built By [DannyMyles](https://github.com/DannyMyles/)
 
 ## Description
 Lets blog our ideas

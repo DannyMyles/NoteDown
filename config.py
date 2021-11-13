@@ -1,7 +1,7 @@
 import os
 class Config:
     '''
-    General configuration settings
+   
     '''
     UPLOADED_PHOTOS_DEST ='app/static/photos'
     QUOTES_URL = 'http://quotes.stormconsultancy.co.uk/random.json'

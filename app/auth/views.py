@@ -40,7 +40,7 @@ def register():
         except Exception as e:
             print("mail not sent")
         return redirect(url_for('auth.login'))
-    title = 
+    title = 'New Account Registration'
     return render_template('auth/registration.html',title = title,registration_form = form)
 
 @auth.route('/logout')

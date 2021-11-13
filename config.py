@@ -17,7 +17,7 @@ class DevConfig(Config):
     '''
     Development Configurations
     '''
-    
+    SECRET_KEY="testkeyindevconfig"
     SQLALCHEMY_DATABASE_URI="postgresql+psycopg2://nazryn:1234@localhost/flaskblog"
     DEBUG = True
 

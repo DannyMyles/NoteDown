@@ -1,4 +1,4 @@
-# Blog
+# Flask_Blog
 
 ## Built By [DannyMyles](https://github.com/DannyMyles/)
 
